@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Xinshuo Weng. 
 
-I am a Ph.D. student (2018-) at the Robotics Institute of Carnegie Mellon University (CMU) advised by Kris Kitani and also currently a research intern at the NVIDIA Autonomous Vehicle Research group advised by Marco Pavone. I received master's degree (2016-17) at CMU, where I worked with Yaser Sheikh and Kris Kitani. Prior to CMU, I worked at Facebook Reality Lab as a research engineer to help build “Photorealistic Telepresence”. My bachelor was received from Wuhan University. My research interest lies in 3D computer vision and Graph Neural Networks for autonomous systems. 
+I am a Ph.D. student (2018-) at the Robotics Institute of Carnegie Mellon University (CMU) advised by Kris Kitani and also currently a research intern at the NVIDIA Autonomous Vehicle Research group advised by Marco Pavone. I received master's degree (2016-17) at CMU, where I worked with Yaser Sheikh and Kris Kitani. Prior to CMU, I worked at Facebook Reality Lab as a research engineer to help build “Photorealistic Telepresence”. My bachelor was received from Wuhan University. My research interest lies in 3D computer vision and Graph Neural Networks for autonomous systems. I have developed 3D multi-object tracking systems such as AB3DMOT that received >1,200 stars on GitHub. Also, I am leading a few autonomous driving workshops at major conferences such as NeurIPS 2021, IJCAI 2021, ICCV 2021 and IROS 2021. I was awarded a Qualcomm Innovation Fellowship for 2020 and a Facebook Fellowship Finalist for 2021.
 
 <!--
 **xinshuoweng/xinshuoweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xinshuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinshuoweng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Xinshuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinshuoweng&count_private=true&show_icons=true&theme=radical)
